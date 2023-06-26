@@ -4,6 +4,7 @@
 Программа двух курсов незначительно отличается, поэтому некоторые материалы в папках курсах дублируются, а некоторые являются уникальными.
 
 [Видеозаписи лекций (ВМК)](https://www.youtube.com/playlist?list=PLHyw1FfK7FeiKR_y0qur59Hae3sgeFWDu)
+
 [Видеозаписи лекций (МФТИ)](https://www.youtube.com/playlist?list=PLk4h7dmY2eYFpZQupGxqCXa5zuMx4lj-d)
 
 ## О курсе
